@@ -5,6 +5,7 @@
 
 ![Reinaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingnaldo1337&icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingnaldo1337&hid&progress=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kingnaldo1337&bg_color=0d1117&color=f2f2f2&line=d93030&point=1fc140&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias Utilizadas
 
